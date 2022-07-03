@@ -1,0 +1,3 @@
+## ¿Qué repositorio utilizarías? PostgreSQL, MariaDB, Casandra, MongoDB, ElasticSearch, Oracle, SQL Server
+
+Debido a que tan solo se requería de una tabla para la realización del ejercicio, no se ha considerado de importancia la disyuntiva entre escoger realizar una base de datos relacional o no relacional, así como otras cuestiones como la robustez o la escalabilidad. Para este ejercicio concretamente, se ha utilizado PostgreSQL debido principalmente a su facilidad de instalación y gestión con pgAdmin.
